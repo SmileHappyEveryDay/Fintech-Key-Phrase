@@ -3,8 +3,4 @@
 
 > The Online Website is released! Enjoy the URL:
 
->https://github.com/albert-jin/FintechKP-frontend/
-> ****
-> **OR**
-> ****
->https://albert-jin.github.io/FintechKP-frontend-anonymous/
+>https://github.com/SmileHappyEveryDay/FintechKP-frontend/
